@@ -2,3 +2,6 @@ The addition of integers works by considering the position of each number on a n
 
 5+4=9
 <img width="1781" height="642" alt="image" src="https://github.com/user-attachments/assets/630a6b10-868a-4c57-a06d-8e1beae16d9d" />
+
+3+6+2=11
+<img width="2195" height="755" alt="image" src="https://github.com/user-attachments/assets/8b867339-8660-43f3-8a3e-24e280e5f57c" />
