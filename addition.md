@@ -7,3 +7,6 @@ The addition of integers works by considering the position of each number on a n
 <img width="2195" height="755" alt="image" src="https://github.com/user-attachments/assets/8b867339-8660-43f3-8a3e-24e280e5f57c" />
 
 3 * 3 = 9
+
+The division of integers works by imagining you have a certain number of items that you want to make groups of. So a/b would be a items split into b groups.
+12/3=4
